@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Construção de uma estrutura de tela para os projetos
 Para exibição dos dados na tela
+=======
+Estrutura de todo o projeto
+>>>>>>> programador2
