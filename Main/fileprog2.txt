@@ -1,1 +1,2 @@
 Tipo de banco de dados
+Estrutura das tabelas
