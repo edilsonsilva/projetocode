@@ -1,2 +1,3 @@
 Tipo de banco de dados
 Estrutura das tabelas
+Definição dos campos das tabelas
